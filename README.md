@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!--
 **andrade-lucas-mo/andrade-lucas-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
